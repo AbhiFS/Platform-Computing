@@ -22,10 +22,11 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="images/About_Me_on_React.png" title='A1 Screenshot' width='' alt='Screenshot 1' />
+<<img src="images/About_Me_on_React.png" title='A1 Screenshot' width='' alt='Screenshot 1' />
 <img src="images/About_Me_on_React2.png" title='A2 Screenshot' width='' alt='Screenshot 2' />
 <img src="images/metric_tracker_output.png" title='A3 Screenshot' width='' alt='Screenshot 3' />
 <img src="images/selenium_tutorial_output.png" title='A4 Screenshot' width='' alt='Screenshot 4' />
+
 
 
 
