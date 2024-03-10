@@ -1,0 +1,54 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+/* Header styles */
+header {
+    background-color: #ffffff;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px; /* Add margin below header */    
+}
+
+/* Main content styles */
+main {
+    border: 1px solid #d3f59d; /* Grey border */
+    margin: 0 20px; /* Add margin on the sides */
+    
+}
+
+/* Section styles */
+section {
+    margin-bottom: 20px; 
+}
+
+/* Heading styles */
+h1, h2 {
+    color: #333;
+}
+
+/* Paragraph styles */
+p {
+    line-height: 1.6;
+    color: #666;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    margin-top: 20px;
+}
+
+/* Link styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
