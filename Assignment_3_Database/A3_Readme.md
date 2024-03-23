@@ -8,11 +8,11 @@ Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
 The following **required** features are completed:
 
-- [ ] Organize Github projects for Assignment 3 (2 pts)
-- [ ] Complete SQL Mystery Walkthrough and take a screenshot or print to PDF the webpage (2 pts)
-- [ ] Complete Interactive MongoDB Tutorial and take a screenshot or print to PDF the webpage  (2 pts)
-- [ ] Choose a SQL or NoSQL Database and set up a server (4 pts)
-- [ ] Modify your metric_tracker file so that the metrics are saved onto a database (5 pts)
+- [x] Organize Github projects for Assignment 3 (2 pts)
+- [x] Complete SQL Mystery Walkthrough and take a screenshot or print to PDF the webpage (2 pts)
+- [x] Complete Interactive MongoDB Tutorial and take a screenshot or print to PDF the webpage  (2 pts)
+- [x] Choose a SQL or NoSQL Database and set up a server (4 pts)
+- [x] Modify your metric_tracker file so that the metrics are saved onto a database (5 pts)
 
 The following **bonus** features are implemented:
 
@@ -22,7 +22,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<<img src="images/My_SQL_Tutorial.png" title='A1 Screenshot' width='' alt='Screenshot 1' />
+<<img src="images/NO_SQL_Tutorial.png" title='A2 Screenshot' width='' alt='Screenshot 2' />
+<<img src="images/Empty_Database.png" title='A3 Screenshot' width='' alt='Screenshot 3' />
+<<img src="images/Metric_tracker_SQL.png" title='A4 Screenshot' width='' alt='Screenshot 4' />
 
 
 ## Notes:
